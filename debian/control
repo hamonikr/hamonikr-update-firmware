@@ -1,0 +1,15 @@
+Source: hamonikr-update-firmware
+Section: utils
+Priority: optional
+Maintainer: HamoniKR <pkg@hamonikr.org>
+Homepage: https://github.com/hamonikr/hamonikr-update-firmware
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.9.5
+
+Package: hamonikr-update-firmware
+Architecture: all
+Depends: 
+Replaces: linux-firmware
+Recommends:
+Description: latest linux-firmware for HamoniKR
+ 하모니카OS 펌웨어 추가 패키지.

@@ -1,0 +1,6 @@
+hamonikr-update-firmware (20220913-hamonikr1) taebaek; urgency=low
+
+  * Update from linux-firmware-20220913.tar.gz
+   - Include amdgpu
+
+ -- HamoniKR <pkg@hamonikr.org>  Sun, 09 Oct 2022 00:40:59 +0900
